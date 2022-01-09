@@ -9,7 +9,7 @@ echo "Hexadecimal : ";
 var_dump(0x1A);
 
 echo "Binary : ";
-var_dump(1234);
+var_dump(0b1111);
 
 echo "Underscrore in number : ";
 var_dump(1_234);
