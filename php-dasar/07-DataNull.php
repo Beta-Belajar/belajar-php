@@ -19,3 +19,10 @@ echo is_null($name);
 echo "\n";
 
 var_dump(is_null($name));
+
+//menghapus varibale
+
+$contoh = "Lerry";
+// unset($contoh);
+
+echo $contoh;
