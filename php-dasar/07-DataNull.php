@@ -24,5 +24,6 @@ var_dump(is_null($name));
 
 $contoh = "Lerry";
 // unset($contoh);
-
+//menghapus variable dengan menegecek apakah nilainya ada atau tidak
 echo $contoh;
+var_dump(isset($contoh));
