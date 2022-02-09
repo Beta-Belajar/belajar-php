@@ -11,5 +11,5 @@ $firstName = "Lerry";
 $lastName = "Joostensz";
 
 $sayHelloLerry = fn () => "Hello $firstName $lastName" . PHP_EOL;
-
+// Arrow function untuk pengembalian data 
 echo $sayHelloLerry();
